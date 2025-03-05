@@ -108,8 +108,10 @@ netstat -antop
 
 
 Anti Virus 
-There's lots of malware for Linux, lots of malicious software, viruses, kits, reverse shells, and lots of other things. So it's a good idea or a good practice to check for viruses or malicious software on Linux. One of the ways to do that is with clam AV programs. First we need to install it. 
-Sudo apt-get install clamav to install it. Use the command clamscan -r directoryName. 
+There's lots of malware for Linux, lots of malicious software, viruses, kits, reverse shells, and lots of 
+other things. So it's a good idea or a good practice to check for viruses or malicious software on Linux. 
+One of the ways to do that is with clam AV programs. First we need to install it. 
+Sudo apt-get install clamav to install it. Use the command clamscan -r directoryName to scan. 
 
 
 
